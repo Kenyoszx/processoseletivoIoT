@@ -46,6 +46,8 @@ normalizando_desde = None
  
 print("Sistema de Monitoramento Inicializado")
  
+# teste workflow 1 
+
 # Loop infinito principal ->
 while True:
     porta_fechada = is_door_closed()
