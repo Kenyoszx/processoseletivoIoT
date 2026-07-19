@@ -10,7 +10,7 @@
 ### Identificação do Candidato
  
 - **Nome completo:** João Victor de Souza Silva
-- **GitHub:** kenyoszx
+- **GitHub:** [Kenyoszx](https://github.com/Kenyoszx)
 ---
  
 ## 1. Visão Geral da Solução
