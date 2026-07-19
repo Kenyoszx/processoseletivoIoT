@@ -1,1 +1,1 @@
-arquivo txt gerado para que o arquivo workflow ci.yml funcione de acordo como esperado na detecção de qual projeto avaliar
+arquivo txt gerado para que o arquivo workflow ci.yml funcione de acordo como esperado na detecção de qual projeto deve avaliar
